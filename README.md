@@ -3,7 +3,7 @@
 
 <p align="center">I talk to routers more than people, troubleshoot things that shouldn't be broken, and occasionally win staring contests with error logs. 🏆</p>
 
-<p align="center">Currently navigating the final year before my graduation while looking for real-world side quests to level up my skills. If you have a challenge, hit me up! 😉👉</p>
+<p align="center">Currently navigating the final year before my graduation while looking for new challenges to level up my skills. If you have such a thing as this aforementioned challenge, by any means hit me up! 😉👉</p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matthiscsi&label=Profile%20views&color=0e75b6&style=flat" alt="matthiscsi" /> </p>
