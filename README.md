@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my repositories are available [here!](https://github.com/matthiscsi?tab=repositories)
 
-- 📫 How to reach me **adriaenssen.matthias@gmail.com** or via linkedin:
+- 📫 How to reach me: **adriaenssen.matthias@gmail.com** or press on this LinkedIn button ⏬
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/matthias-adriaenssen-aa9477317/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/matthias-adriaenssen-aa9477317/" height="30" width="40" /></a>
 </p>
