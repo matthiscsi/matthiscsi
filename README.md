@@ -1,7 +1,7 @@
 <h1 align="center">👨‍💻 Hello! I'm Matthias Adriaenssen</h1>
-<h3 align="center">I'm a System & Network Engineer in Training ¡ Cybersecurity Tinkerer ¡ Digital Firefighter 🔥</h3>
+<h3 align="center">I'm a System & Network Engineer in Training, Cybersecurity Tinkerer and Digital Firefighter</h3>
 
-<p align="center">I talk to routers more than people, troubleshoot things that shouldn't be broken, and occasionally win staring contests with error logs. 🏆</p>
+<p align="center">I talk to routers more than people, troubleshoot things that shouldn't be broken, and occasionally win staring contests with error logs.</p>
 
 <p align="center">Currently navigating the final year before my graduation while looking for new challenges to level up my skills. If you have such a thing as this aforementioned challenge, by any means hit me up! 😉👉</p>
 
