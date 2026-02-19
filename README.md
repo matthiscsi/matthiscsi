@@ -1,14 +1,14 @@
-<h1 align="center">👨‍💻 Hello! I'm Matthias Adriaenssen</h1>
+<h1 align="center">Hello! I'm Matthias Adriaenssen</h1>
 <h3 align="center">I'm a System & Network Engineer in Training, Cybersecurity Tinkerer and Digital Firefighter</h3>
 
 <p align="center">I talk to routers more than people, troubleshoot things that shouldn't be broken, and occasionally win staring contests with error logs.</p>
-
+                           
 <p align="center">Currently navigating the final year before my graduation while looking for new challenges to level up my skills.</p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matthiscsi&label=Profile%20views&color=0e75b6&style=flat" alt="matthiscsi" /> </p>
 
-- 👨‍💻 All of my repositories are available [here!](https://github.com/matthiscsi?tab=repositories)
+- All of my repositories are available [here!](https://github.com/matthiscsi?tab=repositories)
 
 - 📫 How to reach me: **adriaenssen.matthias@gmail.com** or press on this LinkedIn button ⏬
 <p align="left">
