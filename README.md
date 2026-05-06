@@ -85,11 +85,10 @@ I mainly work around **infrastructure, automation, platform engineering, homelab
 
 ---
 
-## GitHub Stats
+## GitHub Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=matthiscsi&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false" alt="Matthias' GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matthiscsi&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top languages" />
+  <img src="https://raw.githubusercontent.com/matthiscsi/matthiscsi/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake" />
 </p>
 
 ---
