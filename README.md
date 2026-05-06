@@ -1,7 +1,7 @@
-<h1 align="center">Hello, I'm Matthias Adriaenssen 👋</h1>
+<h1 align="center">Hello, I'm Matthias</h1>
 
 <h3 align="center">
-System & Network Engineer in Training · Cybersecurity Tinkerer · Digital Firefighter
+System & Network Engineer in Training · Tinkerer · Digital Firefighter
 </h3>
 
 <p align="center">
@@ -88,11 +88,8 @@ I mainly work around **infrastructure, automation, platform engineering, homelab
 ## GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=matthiscsi&show_icons=true&theme=transparent&hide_border=true" alt="GitHub stats" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matthiscsi&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=matthiscsi&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false" alt="Matthias' GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matthiscsi&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top languages" />
 </p>
 
 ---
