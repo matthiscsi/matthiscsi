@@ -56,7 +56,7 @@ Final-year Applied Informatics student focused on infrastructure, platform engin
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=azure,kubernetes,docker,terraform,linux,windows,powershell,bash,git,github,grafana,python,javascript,typescript,cs,dotnet,java,mysql,postgres,redis,sqlite&perline=11" />
+  <img src="https://skillicons.dev/icons?i=azure,kubernetes,docker,terraform,linux,windows,powershell,bash,git,github,githubactions,grafana,nginx,cloudflare,python,typescript,javascript,cs,dotnet,java,postgres,redis&perline=11" />
 </p>
 
 I mainly work around **infrastructure, automation, platform engineering, homelab systems, and security-minded development**.
