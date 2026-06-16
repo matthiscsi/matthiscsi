@@ -9,10 +9,6 @@ I talk to routers more than people, fix what should not break, and occasionally 
 </p>
 
 <p align="center">
-Final-year Applied Informatics student focused on infrastructure, platform engineering, security, automation, and practical tech experiments.
-</p>
-
-<p align="center">
 <img src="https://komarev.com/ghpvc/?username=matthiscsi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
@@ -26,17 +22,17 @@ Final-year Applied Informatics student focused on infrastructure, platform engin
 
 ## About Me
 
-- Final-year Applied Informatics student from Belgium
-- Specializing in System & Network Administration
-- Interested in platform engineering, cybersecurity, homelabs, automation, and cloud infrastructure
-- I enjoy building practical tools, breaking down complex systems, and turning messy setups into something maintainable
-- Currently working with infrastructure-as-code, GitOps, Kubernetes, Docker, monitoring, and security-focused workflows
+- Bachelor Applied Informatics graduate from Belgium
+- Specialized in System & Network Administration
+- Interested in platform engineering, cloud infrastructure, cybersecurity, automation, and homelabs
+- I enjoy building practical tools, understanding how systems work, and turning messy setups into something maintainable
+- Experience with Kubernetes, Terraform, GitOps, Docker, Linux, networking, monitoring, and security-focused workflows
+- Built and maintain a homelab environment for experimentation, learning, and self-hosting
 
 ---
 
 ## Current Focus
 
-- Building Internal Developer Platform concepts with Azure, Terraform, Kubernetes, and GitOps
 - Improving my homelab automation, monitoring, and self-hosted services
 - Experimenting with AI-assisted tooling, Windows utilities, and infrastructure documentation
 - Learning how to make projects cleaner, safer, and more production-minded
