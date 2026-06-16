@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Matthias</h1>
 
 <h3 align="center">
-System & Network Engineer in Training · Tinkerer · Digital Firefighter
+Junior System Engineer · Tinkerer · Digital Firefighter
 </h3>
 
 <p align="center">
@@ -22,7 +22,7 @@ I talk to routers more than people, fix what should not break, and occasionally 
 
 ## About Me
 
-- Bachelor Applied Informatics graduate from Belgium
+- Bachelor Applied Informatics graduate specializing in System & Network Administration
 - Specialized in System & Network Administration
 - Interested in platform engineering, cloud infrastructure, cybersecurity, automation, and homelabs
 - I enjoy building practical tools, understanding how systems work, and turning messy setups into something maintainable
@@ -34,6 +34,7 @@ I talk to routers more than people, fix what should not break, and occasionally 
 ## Current Focus
 
 - Improving my homelab automation, monitoring, and self-hosted services
+- Expanding my knowledge of Kubernetes, Terraform, and platform engineering practices
 - Experimenting with AI-assisted tooling, Windows utilities, and infrastructure documentation
 - Learning how to make projects cleaner, safer, and more production-minded
 
@@ -42,7 +43,7 @@ I talk to routers more than people, fix what should not break, and occasionally 
 ## Featured Interests
 
 **Infrastructure:** Docker · Kubernetes · Terraform · Azure · Linux · Windows  
-**Networking:** DNS · Tailscale · Firewalls · Monitoring · Homelab  
+**Networking:** VLANs · DNS · VPNs · Routing · Firewalls · Monitoring · Homelab
 **Security:** CTFs · Hardening · Secrets · Vulnerability scanning  
 **Development:** Python · JavaScript · C# · Bash · PowerShell  
 **Databases:** PostgreSQL · MySQL · MongoDB · Redis · SQLite  
@@ -74,17 +75,10 @@ I mainly work around **infrastructure, automation, platform engineering, homelab
 
 | Project | Focus |
 |---|---|
-| **Internal Developer Platform** | Azure, AKS, Terraform, Argo CD, GitOps, Traefik, ACR, RBAC, OIDC, CI/CD |
+| **Internal Developer Platform (Axxes)** | Azure, AKS, Terraform, Argo CD, GitOps, Traefik, ACR, RBAC, OIDC, CI/CD |
 | **Homelab / ServerInfo** | Docker, PowerShell, monitoring, service discovery, alerting, documentation, self-hosted infrastructure |
 | **Jarvis Launcher** | Windows automation, C#/.NET, audio detection, desktop workflows, GitHub Actions |
 | **Security / CTF projects** | Web security, Docker labs, JWT, SQLi, SSRF, XXE, secrets, Linux |
 
 ---
 
-## GitHub Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/matthiscsi/matthiscsi/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake" />
-</p>
-
----
